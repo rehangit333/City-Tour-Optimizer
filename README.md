@@ -1,4 +1,3 @@
-```markdown
 # City-Tour Optimizer
 
 A Python-based project to solve the Travelling Salesman Problem (TSP) for city landmarks using real-world geolocation data from a CSV file. The tool computes the shortest possible tour that visits all locations and optionally returns to the start.
